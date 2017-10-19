@@ -1,9 +1,9 @@
 # Site settings
-title: Shoshin
+title: Knowmore
 email: hanvonke@gmail.com
 description: Data Analytics Curation for Social Good
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shoshin.io" # the base hostname & protocol for your site
+url: "http://knowmore.io" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
