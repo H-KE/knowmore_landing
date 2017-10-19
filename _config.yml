@@ -1,6 +1,6 @@
 # Site settings
 title: Knowmore
-email: hanvonke@gmail.com
+email: han@knowmore.io
 description: Data Analytics Curation for Social Good
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://knowmore.io" # the base hostname & protocol for your site
